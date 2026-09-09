@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/REPLACE_WITH_LOWERCASE_USERNAME/omniroute-root:latest
+          tags: ghcr.io/dangdang1987/omniroute-root:latest
